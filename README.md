@@ -1,6 +1,3 @@
-# AI Resume Builder
-
-A stunning, professional resume builder powered by AI with modern design inspired by Canva and LinkedIn.
 
 ## Features
 
