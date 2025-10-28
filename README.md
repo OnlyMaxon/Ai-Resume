@@ -12,11 +12,21 @@
 
 ### Landing Page
 Professional landing page with hero section and feature highlights
-![Landing Page](https://github.com/user-attachments/assets/16452520-360c-463f-a7ab-28e73ef0faa1)
+
+#### Desktop View (MacBook)
+![Landing Page - MacBook](https://github.com/user-attachments/assets/db4bfc6e-705d-4c45-836d-ad526d1bf182)
+
+#### Mobile View (iPhone)
+![Landing Page - iPhone](https://github.com/user-attachments/assets/51bcfe71-3705-4d04-9915-46d5d3dc3f68)
 
 ### Resume Builder Interface
 Intuitive form-based builder with live preview
-![Resume Builder](https://github.com/user-attachments/assets/f59eb8ce-da5a-49f6-86fa-bc13e72d6d5c)
+
+#### Desktop View (MacBook)
+![Resume Builder - MacBook](https://github.com/user-attachments/assets/07733b12-d69d-4592-a8bd-16e3c2cbf1c9)
+
+#### Mobile View (iPhone)
+![Resume Builder - iPhone](https://github.com/user-attachments/assets/96b92b3c-115f-468a-8709-050376d8a9dd)
 
 ## Tech Stack
 
